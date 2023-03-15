@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06c279f9-cd4b-41bf-88c1-b11df1fe9c20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MD3-SS10-MyList.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH1_SimpleList/MyList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH1_SimpleList/MyListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,10 +38,11 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TestMyLinkedList">
     <configuration name="MyListTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Rikkei.academy.TH1_SimpleList.MyListTest" />
       <module name="MD3-SS10-MyList" />
@@ -63,8 +56,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestMyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rikkei.academy.TH2_LinkedList.TestMyLinkedList" />
+      <module name="MD3-SS10-MyList" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Rikkei.academy.TH2_LinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestMyLinkedList" />
         <item itemvalue="Application.MyListTest" />
       </list>
     </recent_temporary>
@@ -77,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678868850665</updated>
-      <workItem from="1678868851955" duration="1811000" />
+      <workItem from="1678868851955" duration="2934000" />
     </task>
     <servers />
   </component>
