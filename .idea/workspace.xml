@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06c279f9-cd4b-41bf-88c1-b11df1fe9c20" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Rikkei/academy/BT1_MyList/MyList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rikkei/academy/TH1_SimpleList/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH1_SimpleList/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rikkei/academy/TH2_LinkedList/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rikkei/academy/TH2_LinkedList/MyLinkedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Java/MD3-SS10-MyList",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -84,7 +88,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678868850665</updated>
-      <workItem from="1678868851955" duration="2934000" />
+      <workItem from="1678868851955" duration="3796000" />
+      <workItem from="1678933260497" duration="4902000" />
     </task>
     <servers />
   </component>
